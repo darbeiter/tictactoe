@@ -1,5 +1,1 @@
-#TO DO#
-
-## To Do: 
-
-## 2. There should be a Counter for winners
+#If you click on "Player1" / "Player2" you can enter your Name#
